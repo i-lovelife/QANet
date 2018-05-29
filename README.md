@@ -80,6 +80,7 @@ Here are the collected results from this repository and the original paper.
 - [x] Apply dropouts + stochastic depth dropout
 - [x] Query-to-context attention
 - [x] Realtime Demo
+- [ ] separate hyperparameter and make it can be load from yaml [link](https://hanxiao.github.io/2017/12/21/Use-HParams-and-YAML-to-Better-Manage-Hyperparameters-in-Tensorflow/)
 - [ ] Data augmentation by paraphrasing
 - [ ] Train with full hyperparameters (Augmented data, 8 heads, hidden units = 128)
 
